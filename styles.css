@@ -65,11 +65,16 @@ font-weight:300;
 
 }
 
+.tops{
+
+    padding-top: 105px;
+}
+}
 
 
 .p1{
 
-    background-color: #95a5a6;
+    background-image: url('africa,jpg');
     margin-top: 10px;
     margin-bottom: 40px;
 }
@@ -85,7 +90,7 @@ font-weight:300;
      background-color: lightgrey;
     width: 95%;
     padding: 25px;
-    border: 25px solid navy;
+    border: 25px solid brown;
     margin: 25px;
 
 
@@ -97,8 +102,9 @@ font-weight:300;
     background-color: lightgrey;
     width: 95%;
     padding: 25px;
-    border: 25px solid navy;
+    border: 25px solid brown;
     margin: 25px;
+    bor
 }
 /*.col2{
     float: left;
@@ -113,7 +119,7 @@ font-weight:300;
 background-color: lightgrey;
     width: 95%;
     padding: 25px;
-    border: 25px solid navy;
+    border: 25px solid brown;
     margin: 25px;
 }
 
