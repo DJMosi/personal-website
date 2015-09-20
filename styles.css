@@ -120,3 +120,49 @@ background-color: lightgrey;
 /*.david{
 
 }*/
+
+.toplist{
+    float:left;
+
+}
+
+.navbar{
+	position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 9999;
+  width: 100%;
+  height: 54px;
+  background-color:#000000 ;
+}
+.navbar ul {
+	list-style:none;
+	margin:0px;
+    height: 50px;
+	padding-left:100px;
+	padding-top:5px;
+
+	}
+
+.navbar ul  li{
+	float:right;
+	width:15%;
+    height: 50px;
+
+	}
+
+.navbar ul li a {
+	text-align: center;
+	display:block;
+    height: 50px;
+	padding:0px 0px;
+	font-size:15px;
+	text-decoration:none;
+	color:#FFFFFF;
+}
+
+
+.navbar ul li a:hover {
+
+	background:#00a087;
+}
