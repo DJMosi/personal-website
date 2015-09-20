@@ -75,8 +75,7 @@ font-weight:300;
 }
 
 .col{
-/*border-style: solid;*/
-    /*border-width: medium;*/
+
 
 
 
@@ -84,7 +83,7 @@ font-weight:300;
 
  .lead{
      background-color: lightgrey;
-    width: 300px;
+    width: 95%;
     padding: 25px;
     border: 25px solid navy;
     margin: 25px;
@@ -93,18 +92,29 @@ font-weight:300;
 
  }
 
-.col2{
-    float: right;
+.follow{
+
+    background-color: lightgrey;
+    width: 95%;
+    padding: 25px;
+    border: 25px solid navy;
+    margin: 25px;
+}
+/*.col2{
+    float: left;
     margin: 0 0 10px 10px;
     border-style: solid;
     border-width: medium;
 
-}
+}*/
 
 
 .sect3{
-background-color: #f7f7f8;
-margin-bottom: 200px;
+background-color: lightgrey;
+    width: 95%;
+    padding: 25px;
+    border: 25px solid navy;
+    margin: 25px;
 }
 
 /*.david{
