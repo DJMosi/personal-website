@@ -62,10 +62,34 @@ font-weight:300;
 	background-image: url('davi.jpg');
 	background-size: cover;
 	height: 1000px;
+
 }
+
 
 
 .p1{
 
     background-color: #95a5a6;
+    margin-top: 10px;
+    margin-bottom: 40px;
+}
+
+.col{
+
+    float: right;
+    margin: 0 0 10px 10px;
+    border-style: solid;
+    /*border-width: medium;*/
+}
+
+.col2{
+
+    border-style: solid;
+    /*border-width: medium;*/
+}
+
+
+.sect3{
+    margin-top: 50px;
+
 }
